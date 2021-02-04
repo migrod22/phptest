@@ -8,4 +8,4 @@ PHP Test - Miguel Rodrigues
 5- Import usersystem1.sql (provided)
 6- Go to http://localhost/userSystem/index.php
 
-And there you go, you can create, edit and delete users.
+And there you go, you can create, edit, list and delete users.
